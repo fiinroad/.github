@@ -18,7 +18,7 @@ We started FinRoad because we saw a gap in the market for a financial planning t
 - Accessible – Built in Flutter, our app works seamlessly across platforms, providing the same intuitive experience for everyone.
 
 ## Main App Repository
-Check out [our main app repository](https://github.com/fiinroad/app) for more details and technical documentation.
+In case you're one of our contributors, check out [our main app repository](https://github.com/fiinroad/app) for more details and technical documentation.
 
 ### Get Involved
-We're always looking to improve and expand our tools. Whether you're a developer, a finance enthusiast, or just curious about financial planning, we welcome your feedback and [contributions](https://github.com/fiinroad/app/issues/new/choose).
+We're always looking to improve and expand our tools. Whether you're a developer, a finance enthusiast, or just curious about financial planning, we welcome your feedback and [contributions](https://github.com/fiinroad/app/issues/new/choose) if applicable.
